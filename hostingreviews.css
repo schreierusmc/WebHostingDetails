@@ -1,0 +1,33 @@
+caption {
+    display:table-caption;
+    align-content:center;
+    font-family: Arial;
+    font-size: x-large;
+}
+table {
+    width:auto;
+    margin:auto;
+    background-color: lightgreen;
+    float: left;
+    height:100px;
+}
+table,th,td {
+    border: 1px solid black;
+}
+th, td {
+    width: auto;
+    padding: 10px;
+    text-align: center;
+    height: 60px;
+    font-family: Arial;
+    font-size: 12;
+} 
+body {
+    font-size: large;
+    text-align: center;
+    background-color: darkgreen;
+}
+fieldset {
+    border-color: black;
+    background-color: lightgreen;
+}
